@@ -29,7 +29,7 @@ A data visualization project showing the differences in the prices of gold and s
  --gold_price.csv
  --silver_price.csv
  
- # Features I used from project requirements
+ # FEATURES I USED FROM PROJECT REQUIREMENTS 
  
  1. Read in data from a csv file.
  2. Use built-in pandas or numpy

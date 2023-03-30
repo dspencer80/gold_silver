@@ -31,7 +31,7 @@ A data visualization project showing the differences in the prices of gold and s
  
  # CITATIONS
  
- --https://www.kaggle.com/datasets/lbronchal/gold-and-silver-prices-dataset?resource=download&select=silver_price.csv
+--https://www.kaggle.com/datasets/lbronchal/gold-and-silver-prices-dataset?resource=download&select=silver_price.csv
  
 --https://www.lbma.org.uk/prices-and-data/precious-metal-prices
 

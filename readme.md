@@ -29,6 +29,25 @@ A data visualization project showing the differences in the prices of gold and s
  --gold_price.csv
  --silver_price.csv
  
+ # Features I used from project requirements
+ 
+ 1. Read in data from a csv file.
+ 2. Use built-in pandas or numpy
+    functions to do things like
+    remove null values.
+ 3. Did basic calculations with
+    Pandas, like finding the
+    max(), median(), mean(), or
+    min() and length of a column. 
+ 4. Made 2 basic plots with
+    matplotlib.
+ 5. Wrote markdown cells in
+    Jupyter explaining my
+    thought process and code.
+    Using markdown, I explained what the
+    reader is seeing and why I
+    chose to plot things the way I did. 
+ 
  # CITATIONS
  
 --https://www.kaggle.com/datasets/lbronchal/gold-and-silver-prices-dataset?resource=download&select=silver_price.csv
